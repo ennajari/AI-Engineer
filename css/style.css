@@ -334,6 +334,7 @@ figure {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
             color: #000;
             border: 1px solid #000;
+            border-radius: 25px;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
